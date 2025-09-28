@@ -70,17 +70,5 @@ Upload Image	Webcam Capture	Detection Result
 
 This tool is for research purposes only. It is not a medical diagnostic tool. Always consult a healthcare professional for diagnosis or treatment.
 
-📄 License
-
-MIT License © 2025 
-
-✅ How to Add the GIF
-
-Record a demo of your app using OBS Studio or LICEcap.
-
-Save it as a GIF (max 5–10 seconds).
-
-Upload it to your repo in a folder like assets/ or use GitHub Pages / Giphy link.
 
 
-Replace https://media.giphy.com/media/your_demo_gif.gif with your GIF link.
