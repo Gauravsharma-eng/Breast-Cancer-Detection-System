@@ -1,0 +1,5 @@
+train: images/train
+val: images/train
+
+nc: 2
+names: ['benign', 'malignant']
