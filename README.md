@@ -43,7 +43,7 @@ OpenCV & PIL
 
 Clone the repository:
 
-git clone https://github.com/yourusername/breast-cancer-detection.git
+git clone https://github.com/gauravsharma-eng/breast-cancer-detection.git
 cd breast-cancer-detection
 
 
@@ -72,7 +72,7 @@ This tool is for research purposes only. It is not a medical diagnostic tool. Al
 
 📄 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 
 
 ✅ How to Add the GIF
 
@@ -81,5 +81,6 @@ Record a demo of your app using OBS Studio or LICEcap.
 Save it as a GIF (max 5–10 seconds).
 
 Upload it to your repo in a folder like assets/ or use GitHub Pages / Giphy link.
+
 
 Replace https://media.giphy.com/media/your_demo_gif.gif with your GIF link.
